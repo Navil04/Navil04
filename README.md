@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm MD NAVIL AHMAD</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<br><h3>- # 💫 About Me:</h3>
+🔭Currently  I’m  working on to develop skills.<br>🌱  A student  at Bengal college of engineering and technology.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: mdnavilahmad77394210@gmail.com<br>😄 Pronouns: He/His
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
